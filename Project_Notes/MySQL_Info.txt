@@ -1,0 +1,8 @@
+The MySQL server was set up using a developer account in the MySQL Workbench.
+
+The developer account info is:
+username: devuser
+password: devuserpassword
+
+This info is also stored in the project in the “sw_movies.properties” 
+within the “/proctorfree-java-spring-demo/src/main/resources/“ folder.
