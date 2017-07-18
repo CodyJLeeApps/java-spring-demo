@@ -1,0 +1,11 @@
+If I were to review this application I would say that it has the following characteristics:
+-Good example of Java and Java Spring implementation
+-Example of using many tools (Eclipse JEE, Apache Tomcat, Maven, MySQL, etc)
+-The application is very simple and to the point, no frills.
+-Consistent coding standards
+
+
+What I would add to the application:
+1. User interface to: ADD, DELETE, UPDATE movie records.
+2. Make the interface “pretty” create a nice UI and make it pleasing to the eye. 
+3. Allow the user to re-run the application at-will
