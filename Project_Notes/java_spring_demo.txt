@@ -1,0 +1,20 @@
+This application was created with Eclipse JEE Oxygen Release (4.7.0)
+
+To run the application you will need a server installed in Eclipse JEE,
+the apache server uses port 8080, 
+You will as a MySQL server with a database defined as the “proctor_free_db.sql” file states.
+
+The following interfaces were used in this project:
+-Apache Tomcat V9.0
+-Maven 3.3.9
+-MySQL Server / MySQL Workbench 6.3.9
+
+The following dependencies were used in the project:
+-spring-webmvc 4.3.7.RELEASE
+-jstl version 1.2</version>
+-spring-core version 4.3.7.RELEASE
+-spring-context version 4.3.7.RELEASE
+-spring-beans version 4.3.7.RELEASE
+-mysql-connector-java version 6.0.6
+-commons-dbcp version 1.4
+-spring-jdbc version 4.3.7.RELEASE
